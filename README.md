@@ -1,2 +1,2 @@
 # rhacm-app-policy
-RHACM App and Policy Demo
+Repo for the RHACM app and Policy testing
