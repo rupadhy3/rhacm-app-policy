@@ -6,4 +6,4 @@ metadata:
   namespace: pacman
 spec:
   type: GitHub
-  pathname: https://github.com/avaleror/ocp-coffee-break.git
+  pathname: https://github.com/rupadhy3/rhacm-app-policy.git
