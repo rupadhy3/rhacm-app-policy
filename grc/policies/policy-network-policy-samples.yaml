@@ -61,7 +61,7 @@ spec:
                   podSelector:
                     ingress: []
           severity: low
-          remediationAction: enforce
+          remediationAction: inform
     - objectDefinition:
         apiVersion: policy.open-cluster-management.io/v1
         kind: ConfigurationPolicy
